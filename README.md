@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=⬡+ORION+AI;Multi-Personality+AI;Your+Intelligent+Companion" alt="Orion AI" />
+# ⬡ ORION AI
 
-<br/>
-
-### *"Your intelligent AI companion with personality."*
+### *Your intelligent AI companion with personality.*
 
 <br/>
 
