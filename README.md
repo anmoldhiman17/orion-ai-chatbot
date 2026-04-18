@@ -309,13 +309,12 @@ It keeps the project alive and tells the algorithm this matters.
 ```
 
 </div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=footer&text=⚡%20ORION%20AI%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=ORION+AI+%7C+Future+of+Chatbots;Multi-Personality+AI+Experience;Powered+by+Mistral+%2B+LangChain;Built+by+Anmol+Dhiman+🚀" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Intelligent.+Adaptive.+Futuristic.;Chat+Beyond+Limits.;AI+That+Feels+Alive+🤖"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
 
 </div>
