@@ -1,55 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=220§ion=header&text=ORION%20AI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20intelligent%20AI%20companion%20with%20personality.&descAlignY=60&descSize=20" width="100%"/>
-
-<!-- Badges -->
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=for-the-badge)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live_🟢-22c55e?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=⬡+ORION+AI;Multi-Personality+AI;Your+Intelligent+Companion" alt="Orion AI" />
 
 <br/>
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
-[![⭐ GitHub](https://img.shields.io/badge/⭐_Star_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17/orion-ai-chatbot)
+### *"Your intelligent AI companion with personality."*
 
 <br/>
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22d3ee?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Live_🟢-22c55e?style=for-the-badge)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
+
 <br/>
 
-> **ORION AI** is a futuristic multi-personality AI chatbot powered by **Mistral**, **LangChain**, and **Streamlit** — built to feel less like a tool and more like a *conversation.*
-
-<br/>
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
+[![GitHub Repo](https://img.shields.io/badge/⭐_Star_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/anmoldhiman17/orion-ai-chatbot)
 
 </div>
 
 ---
 
-## 🌌 Why ORION AI?
+<div align="center">
 
-Most chatbots feel robotic, generic, and soulless.
+## ✦ What is ORION AI?
 
-**ORION AI is different.**
+</div>
 
-It doesn't just respond — it *adapts*. Choose a personality, start a conversation, and experience AI that feels alive. Whether you want it witty, emotional, razor-sharp, or hilariously unhinged — ORION delivers.
-
-> 💡 **Built for developers, makers, and anyone who wants their AI to have an actual vibe.**
+> **ORION AI** is not just another chatbot. It's a **multi-personality AI experience** — built with Mistral's cutting-edge language model, LangChain's conversation framework, and a hand-crafted futuristic UI that feels like something from 2030.
+>
+> Switch between 5 distinct AI personalities in real time. Each one thinks, talks, and responds differently. One AI, infinite characters.
 
 ---
 
-## 🎥 Demo
+## 🎭 Meet the Personalities
 
 <div align="center">
 
-<!-- Replace with actual screenshots/GIF -->
-![ORION AI Demo](assets/demo.gif)
+| Personality | Vibe | Description |
+|:-----------:|:----:|:------------|
+| 😡 **Angry Mode** | Aggressive & Raw | Frustrated, impatient, but still gets the job done |
+| 😂 **Funny Mode** | Humor & Wit | Puns, jokes, comedic timing — never a dull moment |
+| 😢 **Sad Mode** | Poetic & Melancholic | Finds beauty in sorrow, speaks in quiet depth |
+| 🧠 **Smart Mode** | Analytical & Rigorous | Polymath energy, structured thinking, deep insights |
+| 🤖 **Robot Mode** | Cold & Mechanical | Zero emotions. Pure logic. ORION-UNIT ONLINE. |
 
-| 😡 Angry Mode | 😂 Funny Mode | 🧠 Smart Mode |
-|:-:|:-:|:-:|
-| ![](assets/angry.png) | ![](assets/funny.png) | ![](assets/smart.png) |
+</div>
 
-[![🚀 Try Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-Click_Here-7C3AED?style=for-the-badge)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
+---
+
+## 🖼️ Screenshots
+
+<div align="center">
+
+### 🏠 Welcome Screen — Choose Your Personality
+![Welcome Screen](assets/welcome.png)
+
+### 💬 Chat Interface — Angry Mode in Action
+![Chat Interface](assets/chat.png)
+
+### 🧠 Robot Mode — Deep Technical Answer
+![Robot Mode](assets/robot.png)
+
+### 😢 Sad Mode — Poetic & Emotional
+![Sad Mode](assets/sad.png)
+
+> 🎥 *A full demo GIF will be added soon. For now — [try the live demo →](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)*
+
+<br/>
+
+[![🚀 Try ORION AI Live](https://img.shields.io/badge/🚀_Try_ORION_AI_Live-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
 
 </div>
 
@@ -57,71 +80,78 @@ It doesn't just respond — it *adapts*. Choose a personality, start a conversat
 
 ## ✨ Features
 
-| Feature | Description |
-|---|---|
-| 🎭 **Multi-Personality AI** | Switch between 5 unique AI personalities on the fly |
-| 🧠 **Context Memory** | Session-based memory that remembers your full conversation |
-| ⚡ **Real-Time Chat** | Instant responses with a smooth, fluid chat experience |
-| 🌑 **Dark Futuristic UI** | Custom dark UI that feels like it's from 2040 |
-| 🔄 **Mode Switching** | Seamlessly toggle personalities mid-conversation |
-| 🤖 **Mistral Powered** | Backed by `mistral-small-2501` — fast, smart, and accurate |
-| 🦜 **LangChain Integration** | Robust chain-based conversation management |
-| 🎯 **Smooth UX** | Clean interactions with zero friction |
-
----
-
-## 🎭 Personality Modes
-
-Choose how ORION speaks to you:
-
-| Mode | Personality | Vibe |
-|---|---|---|
-| 😡 **Angry Mode** | Blunt, aggressive, zero patience | "Get to the point." |
-| 😂 **Funny Mode** | Witty, humorous, roast-ready | "Here to make you laugh." |
-| 😢 **Sad Mode** | Emotional, empathetic, melancholic | "Feeling all the feels." |
-| 🧠 **Smart Mode** | Analytical, precise, intellectual | "Logic over everything." |
-| 🤖 **Robot Mode** | Cold, mechanical, data-driven | "PROCESSING... DONE." |
+```
+⬡  5 AI Personalities    →  Switch modes instantly, each with unique tone & behavior
+⬡  Real-time Streaming   →  Watch responses generate token by token, live
+⬡  Session Memory        →  Maintains full conversation context throughout the session
+⬡  Mode Switcher         →  One-click personality switching without losing context
+⬡  Suggested Prompts     →  Tailored starter questions per personality
+⬡  Dark / Light Theme    →  Toggle between themes with a single click
+⬡  Futuristic UI         →  Custom CSS, Orbitron font, glows, gradients, animations
+⬡  Centered Layout       →  Clean, distraction-free, centered chat experience
+⬡  Timestamps            →  Every message is timestamped
+⬡  Session Stats         →  Track model, mode, message count & session time
+```
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer | Technology |
-|---|---|
-| **Frontend** | Streamlit |
-| **Backend** | Python 3.10+ |
-| **AI Model** | Mistral AI (`mistral-small-2501`) |
-| **LLM Framework** | LangChain |
-| **Memory** | LangChain Session Memory |
-| **Styling** | Custom CSS (Dark Futuristic Theme) |
-| **Deployment** | Hugging Face Spaces |
+<div align="center">
+
+| Layer | Technology | Purpose |
+|:-----:|:----------:|:--------|
+| 🖥️ **Frontend** | Streamlit | Web UI framework |
+| 🎨 **Styling** | Custom CSS | Futuristic design system |
+| 🧠 **AI Model** | Mistral `mistral-small-2501` | Core language model |
+| 🔗 **Framework** | LangChain | Conversation + message handling |
+| 🐍 **Backend** | Python 3.10+ | Application logic |
+| ☁️ **Deployment** | Hugging Face Spaces | Cloud hosting |
+| 🔐 **Config** | python-dotenv | Secure API key management |
+
+</div>
 
 ---
 
 ## 📦 Installation
 
+### Prerequisites
+
+- Python 3.10 or higher
+- A [Mistral AI API key](https://console.mistral.ai/)
+
+### Clone the Repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/anmoldhiman17/orion-ai-chatbot
-
-# Navigate into the project
 cd orion-ai-chatbot
+```
 
-# Install dependencies
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
+
+> **requirements.txt** should include:
+> ```
+> streamlit
+> langchain-mistralai
+> langchain-core
+> python-dotenv
+> ```
 
 ---
 
 ## 🔐 Environment Setup
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the project root:
 
 ```env
-MISTRAL_API_KEY=your_api_key_here
+MISTRAL_API_KEY=your_mistral_api_key_here
 ```
 
-> 🔑 Get your free Mistral API key at [console.mistral.ai](https://console.mistral.ai)
+> 🔑 Get your free API key at [console.mistral.ai](https://console.mistral.ai/)
 
 ---
 
@@ -131,25 +161,34 @@ MISTRAL_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
-Then open your browser at `http://localhost:8501` — and let ORION talk. 🚀
+Then open your browser at `http://localhost:8501` — and meet ORION. 🔮
 
 ---
 
-## 🧠 Usage Example
+## 💡 Usage Example
 
+**Funny Mode**
 ```
-You   → "Tell me a joke"
+You   →  Tell me a joke about AI
+Orion →  Why did the AI get fired? Because it kept throwing exceptions
+          at its boss! Ba dum tss 🥁 (It also refused to debug itself.
+          Classic AI move.)
+```
 
-ORION (😂 Funny Mode) →
-  "Why don't scientists trust atoms?
-   Because they make up everything — just like your excuses for not going to the gym. 💀"
+**Angry Mode**
+```
+You   →  Tell me a fun fact
+Orion →  UGH. FINE. The shortest war in history lasted 38 MINUTES.
+          Britain vs Zanzibar, 1896. THIRTY-EIGHT MINUTES. That's less
+          time than it takes YOU to pick a Netflix show. Happy?!
+```
 
-You   → "Explain quantum entanglement"
-
-ORION (🧠 Smart Mode) →
-  "Quantum entanglement occurs when two particles become correlated such that the
-   quantum state of one instantly influences the other, regardless of distance —
-   Einstein called it 'spooky action at a distance.' He wasn't wrong."
+**Sad Mode**
+```
+You   →  Tell me something beautiful
+Orion →  Oh... the beauty... it's all so fleeting, isn't it? Like petals
+          dissolving in the rain, their brilliance only a whisper before
+          the world forgets...
 ```
 
 ---
@@ -159,86 +198,119 @@ ORION (🧠 Smart Mode) →
 ```
 orion-ai-chatbot/
 │
-├── app.py                  # Main Streamlit application
+├── app.py                  # Main application (UI + logic)
 ├── requirements.txt        # Python dependencies
-├── .env                    # Environment variables (not committed)
+├── .env                    # API keys (not committed)
+├── .gitignore              # Ignores .env, __pycache__, etc.
 │
-├── assets/                 # Screenshots, GIFs, and media
-│   ├── demo.gif
-│   ├── angry.png
-│   ├── funny.png
-│   └── smart.png
-│
-└── README.md               # You are here 📍
+└── assets/                 # Screenshots & media
+    ├── welcome.png
+    ├── chat.png
+    ├── robot.png
+    └── sad.png
 ```
 
 ---
 
 ## 🌐 Deployment
 
-ORION AI is live on **Hugging Face Spaces** — zero setup required for users.
+ORION AI is deployed on **Hugging Face Spaces** using the Streamlit runtime.
 
-- Platform: [Hugging Face Spaces](https://huggingface.co/spaces)
-- Runtime: **Streamlit**
-- Link: [🚀 Launch ORION AI](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
+### To deploy your own fork:
 
-> To deploy your own fork, simply push to a Hugging Face Space with Streamlit runtime and add your `MISTRAL_API_KEY` as a Space secret.
+1. Fork this repo
+2. Go to [huggingface.co/spaces](https://huggingface.co/spaces) → New Space
+3. Choose **Streamlit** as the SDK
+4. Link your GitHub repo
+5. Add your `MISTRAL_API_KEY` in **Space Secrets** (Settings → Repository Secrets)
+6. Done — your space goes live automatically 🚀
+
+---
+
+## 🤔 Why ORION AI?
+
+Most AI chatbots are one-dimensional — same tone, same style, every time. Boring.
+
+**ORION AI** explores a different idea: *what if your AI had moods?* What if it could be your sarcastic friend, your analytical advisor, your robot assistant, or your poetic companion — depending on what you need in the moment?
+
+This project is an exploration of **personality-driven AI UX** and how tone, emotion, and character radically change the human-AI conversation experience.
 
 ---
 
 ## 🔮 Future Improvements
 
-- [ ] 🗣️ Voice input & text-to-speech output
-- [ ] 🌍 Multilingual support (Hindi, Spanish, French)
-- [ ] 💾 Persistent chat history across sessions
-- [ ] 🎨 User-customizable AI personalities
-- [ ] 📱 Mobile-first responsive redesign
-- [ ] 🔌 REST API mode for external integrations
-- [ ] 🧩 Plugin system for extended capabilities
+- [ ] **Voice Mode** — text-to-speech for each personality with distinct voices
+- [ ] **Custom Personality Creator** — let users define their own AI character
+- [ ] **Chat Export** — download conversation as PDF or Markdown
+- [ ] **Persistent Memory** — remember user preferences across sessions
+- [ ] **Multi-model Support** — toggle between Mistral, GPT-4o, Claude
+- [ ] **Mobile App** — React Native wrapper for iOS/Android
+- [ ] **Personality Blend Mode** — mix two personalities (e.g., Funny + Smart)
+- [ ] **Conversation Analytics** — charts for message length, response time, mood shifts
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community amazing. Any contributions you make are **greatly appreciated**.
+Contributions are always welcome! Here's how:
 
 ```bash
-# Fork the repo → Create your feature branch
-git checkout -b feature/AmazingFeature
+# 1. Fork the repo
+# 2. Create your feature branch
+git checkout -b feature/amazing-feature
 
-# Commit your changes
-git commit -m "feat: add AmazingFeature"
+# 3. Commit your changes
+git commit -m "feat: add amazing feature"
 
-# Push to the branch
-git push origin feature/AmazingFeature
+# 4. Push to your branch
+git push origin feature/amazing-feature
 
-# Open a Pull Request 🎉
+# 5. Open a Pull Request
 ```
 
-> 💬 Have an idea or found a bug? [Open an issue](https://github.com/anmoldhiman17/orion-ai-chatbot/issues) — all feedback is welcome.
+Please open an [issue](https://github.com/anmoldhiman17/orion-ai-chatbot/issues) first to discuss major changes.
 
 ---
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ---
 
 ## 👨‍💻 Author
 
+<div align="center">
+
 **Anmol Dhiman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-anmoldhiman17-181717?style=for-the-badge&logo=github)](https://github.com/anmoldhiman17)
+[![GitHub](https://img.shields.io/badge/GitHub-@anmoldhiman17-181717?style=for-the-badge&logo=github)](https://github.com/anmoldhiman17)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Anmoldhiman17-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Anmoldhiman17)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Star this repo if ORION AI made you smile — it means the world.
+### ⬡ ORION AI
 
-[![Star History Chart](https://api.star-history.com/svg?repos=anmoldhiman17/orion-ai-chatbot&type=Date)](https://star-history.com/#anmoldhiman17/orion-ai-chatbot&Date)
+*Built with 🔮 and a little bit of existential dread.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=120§ion=footer" width="100%"/>
+<br/>
+
+**If this project sparked something in you — drop a ⭐**
+It keeps the project alive and tells the algorithm this matters.
+
+<br/>
+
+[![Star this Repo](https://img.shields.io/badge/⭐_Star_this_Repo-181717?style=for-the-badge&logo=github)](https://github.com/anmoldhiman17/orion-ai-chatbot)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
+
+<br/>
+
+```
+⬡ ORION AI v3.0  ·  Mistral AI  ·  LangChain  ·  Streamlit
+```
 
 </div>
