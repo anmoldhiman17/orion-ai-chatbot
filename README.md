@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anmoldhiman17/orion-ai-chatbot/main/assets/banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=220&section=header&text=ORION%20AI&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Futuristic+Multi-Personality+AI+Chatbot;Powered+by+Mistral+%2B+LangChain;Built+by+Anmol+Dhiman" />
+
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
