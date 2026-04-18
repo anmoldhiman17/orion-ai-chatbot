@@ -1,7 +1,6 @@
 <div align="center">
 
-![ORION AI Banner](assets/banner.svg)
-
+<img src="https://raw.githubusercontent.com/anmoldhiman17/orion-ai-chatbot/main/assets/banner.svg" width="100%" />
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
