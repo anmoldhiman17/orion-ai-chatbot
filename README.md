@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⬡ ORION AI
-
-### *Your intelligent AI companion with personality.*
+![ORION AI Banner](assets/banner.svg)
 
 <br/>
 
@@ -202,6 +200,7 @@ orion-ai-chatbot/
 ├── .gitignore              # Ignores .env, __pycache__, etc.
 │
 └── assets/                 # Screenshots & media
+    ├── banner.svg          # ← Animated hero banner (this file!)
     ├── welcome.png
     ├── chat.png
     ├── robot.png
@@ -290,12 +289,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ---
 
 <div align="center">
-
-### ⬡ ORION AI
-
-*Built with 🔮 and a little bit of existential dread.*
-
-<br/>
 
 **If this project sparked something in you — drop a ⭐**
 It keeps the project alive and tells the algorithm this matters.
